@@ -11,10 +11,15 @@ pip install pip_req.txt
 chmox +x install.sh
 ./install.sh
 
+python -m ipykernel install --user --name=sleepy_banach
+
 python tests/test_install.py
 ```
 
 If the result of the test is `yes` installation is successful.
+
+Now open jupyter notebook, and attempt to run `tests/test_ipynb.py` using `sleepy_banach` kernel.
+
 Please kindly proceed with the file called 'REPRODUCIBILITY.md'
 
 
