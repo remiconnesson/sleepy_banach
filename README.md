@@ -13,6 +13,7 @@ A one paragraph summary of your project. Lorem ipsum dolor sit amet, consectetur
 You must write a one page (or more) article detailing your approach, what are you trying to solve, how your results can help make a difference.
 
 Provide a link, it must be a file in your submission github repo: (Markdown or PDF) 
+
 LINK : https://github.com/remiconnesson/sleepy_banach/blob/master/One%20Page%20Article.md
 
 ## Additional ressources:
