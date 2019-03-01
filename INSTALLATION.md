@@ -1,7 +1,7 @@
 On a UNIX machine, preferably Ubuntu 18.04
 
 ```
-git clone https://github.com/remiconnesson/sleepy_banach/
+git clone https://github.com/remiconnesson/sleepy_banach.git 
 cd sleepy_banach
 
 conda create -n sleepy_banach --file conda_req.txt
