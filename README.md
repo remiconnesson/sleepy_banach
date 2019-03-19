@@ -37,7 +37,7 @@ examples:
 
 ## [MANDATORY] Installations & Reproduction Detailed Instructions
 
-To Install : https://github.com/remiconnesson/sleepy_banach/blob/master/installation/INSTALLATION.md
-To Reproduce Results : https://github.com/remiconnesson/sleepy_banach/blob/master/installation/REPRODUCIBILITY.md
+- To Install : https://github.com/remiconnesson/sleepy_banach/blob/master/installation/INSTALLATION.md
+- To Reproduce Results : https://github.com/remiconnesson/sleepy_banach/blob/master/installation/REPRODUCIBILITY.md
 
 
