@@ -30,7 +30,7 @@ Non-exhaustive list of ideas for additional ressources:
 
 ## [MANDATORY] Team Members
 (By first name alphabetical order, formatted as below)
-- *First Name, LAST NAME, job title, public contacts (e.g. blog, linkedin), [optional]*
+- *First Name, LAST NAME, job title, public contacts (e.g. blog, linkedin), additional notes
 
 
 examples:
