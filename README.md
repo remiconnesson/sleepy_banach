@@ -29,8 +29,10 @@ Non-exhaustive list of ideas for additional ressources:
 - Video
 
 ## [MANDATORY] Team Members
-(By first name alphabetical order)
-- *First Name, LAST NAME, job title, public contacts (e.g. blog, linkedin), [optional]
+(By first name alphabetical order, formatted as below)
+- *First Name, LAST NAME, job title, public contacts (e.g. blog, linkedin), [optional]*
+
+
 examples:
 - Eddard STARK, King of the North, [Wikipedia Page](https://fr.wikipedia.org/wiki/Eddard_Stark)
 - Remi CONNESSON, Dean of SoAI Paris, [LinkedIn](https://www.linkedin.com/in/remi-connesson/), created this repo
